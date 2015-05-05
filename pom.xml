@@ -4,7 +4,7 @@
   <groupId>com.cybage.assignment</groupId>
   <artifactId>decassignment</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>decassignment Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
